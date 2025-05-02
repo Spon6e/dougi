@@ -1,0 +1,5 @@
+﻿  aukciOn.cpp
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn\aukciOn.cpp(24,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  aukciOn.vcxproj -> C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn\x64\Debug\aukciOn.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

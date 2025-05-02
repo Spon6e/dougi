@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79123\\OneDrive\\Desktop\\dougi\\MS\\lab3\\aukciOn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1835104C-6B6B-4827-8C03-1CDA3F1AF5E4}|aukciOn.vcxproj|C:\\Users\\79123\\OneDrive\\Desktop\\dougi\\MS\\lab3\\aukciOn\\aukciOn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1835104C-6B6B-4827-8C03-1CDA3F1AF5E4}|aukciOn.vcxproj|solutionrelative:aukciOn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aukciOn.cpp",
+              "DocumentMoniker": "C:\\Users\\79123\\OneDrive\\Desktop\\dougi\\MS\\lab3\\aukciOn\\aukciOn.cpp",
+              "RelativeDocumentMoniker": "aukciOn.cpp",
+              "ToolTip": "C:\\Users\\79123\\OneDrive\\Desktop\\dougi\\MS\\lab3\\aukciOn\\aukciOn.cpp",
+              "RelativeToolTip": "aukciOn.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T15:23:42.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
