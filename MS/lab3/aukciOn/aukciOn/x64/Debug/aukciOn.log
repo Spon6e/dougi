@@ -1,5 +1,9 @@
 ﻿  aukciOn.cpp
-C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn\aukciOn.cpp(24,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn\aukciOn.cpp(53,70): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn\aukciOn.cpp(53,70): warning C4267:         with
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn\aukciOn.cpp(53,70): warning C4267:         [
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn\aukciOn.cpp(53,70): warning C4267:             _Ty=int
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn\aukciOn.cpp(53,70): warning C4267:         ]
   aukciOn.vcxproj -> C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn\x64\Debug\aukciOn.exe
   "pwsh.exe" не является внутренней или внешней
   командой, исполняемой программой или пакетным файлом.
