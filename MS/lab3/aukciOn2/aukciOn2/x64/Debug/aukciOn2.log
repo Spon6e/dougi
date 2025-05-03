@@ -1,0 +1,9 @@
+﻿  aukciOn2.cpp
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn2\aukciOn2.cpp(66,74): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn2\aukciOn2.cpp(66,74): warning C4267:         with
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn2\aukciOn2.cpp(66,74): warning C4267:         [
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn2\aukciOn2.cpp(66,74): warning C4267:             _Ty=int
+C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn2\aukciOn2.cpp(66,74): warning C4267:         ]
+  aukciOn2.vcxproj -> C:\Users\79123\OneDrive\Desktop\dougi\MS\lab3\aukciOn2\x64\Debug\aukciOn2.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
